@@ -1,0 +1,4 @@
+please do authentication type 
+1st->login if password matched give entry to ebook database or message of "invalid credentials  or  if you are a new user register yourself." 
+2nd->registration take input save it to database  and if user login in check credentials and viceversa.
+3rd->of login i sdone give entry to  particulatar html link .
